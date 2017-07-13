@@ -37,6 +37,7 @@ public class OutputNumberOfGames {
 
 
         System.out.println(player + "人の場合の総試合数は、" + totalgames + "試合です。");
+        System.out.println("test");
     }
 
     /**
